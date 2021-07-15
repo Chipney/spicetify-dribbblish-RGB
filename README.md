@@ -4,6 +4,7 @@ modified spicetify dribbblish theme for your full RGB experience (yes it will en
 Animated rainbow background with semi-transparent tabs
 
 get the original themes here: https://github.com/morpheusthewhite/spicetify-themes
+get spicetify-cli separately here: https://github.com/khanhas/spicetify-cli
 
 ## How to use the theme
 1. Make sure to have the webversion of spotify < 1.1.63.000
