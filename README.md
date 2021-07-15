@@ -14,7 +14,7 @@ get spicetify-cli separately here: https://github.com/khanhas/spicetify-cli
 2. run download&install.ps1: This will download and install spicetify-cli
 3. copy the Dribbblish folder into your theme folder (C:\Users\<YourUsername>\.spicetify\Themes)
 4. run activateRGB.ps1: this will active the modified dribbblish theme
-
+(5. get rid of the black windows controls by modifing the spotify shortcut by adding " --transparent-window-controls" to the executable path)
 ## How it looks once activated
 
 ![grafik](https://user-images.githubusercontent.com/39482662/125764751-e5a70799-6025-4628-b7eb-4cf112282df8.png)
