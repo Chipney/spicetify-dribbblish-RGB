@@ -1,11 +1,8 @@
 # spicetify-dribbblish-RGB
+### Animated rainbow background with semi-transparent tabs
 modified spicetify dribbblish theme for your full RGB experience (yes it will enhance your fps!)
 
-
-Animated rainbow background with semi-transparent tabs
-
-
-### Sources
+### Sources:
 get the original themes here: https://github.com/morpheusthewhite/spicetify-themes
 
 get spicetify-cli separately here: https://github.com/khanhas/spicetify-cli
