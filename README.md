@@ -1,7 +1,10 @@
 # spicetify-dribbblish-RGB
 modified spicetify dribbblish theme for your full RGB experience (yes it will enhance your fps!)
 
+
 Animated rainbow background with semi-transparent tabs
+
+
 
 get the original themes here: https://github.com/morpheusthewhite/spicetify-themes
 
