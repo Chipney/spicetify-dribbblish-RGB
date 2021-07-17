@@ -2,7 +2,7 @@
 ### Animated rainbow background with semi-transparent tabs
 modified spicetify dribbblish theme for your full RGB experience (yes it will enhance your fps!)
 
-[![Generic badge](https://img.shields.io/badge/R-YES-red.svg)](https://shields.io/)[![Generic badge](https://img.shields.io/badge/G-YES-green.svg)](https://shields.io/)[![Generic badge](https://img.shields.io/badge/B-YES-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/R-YES-red.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/G-YES-green.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/B-YES-blue.svg)](https://shields.io/)
 ---
 
 ### Sources:
